@@ -24,10 +24,6 @@ const swap = () => {
     currencyOne.value = currencyTwo.value
     currencyTwo.value = currencyTmp
 
-    // let amountTmp = amountOne.value
-    // amountOne.value = amountTwo.value
-    // amountTwo.value = amountTmp
-
     calculate()
 }
 
